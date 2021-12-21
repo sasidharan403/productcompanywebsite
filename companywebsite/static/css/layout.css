@@ -4,7 +4,7 @@
 }
 body {
   background-color: whitesmoke;
-  color: #17421d;
+  color: #421717;
 }
 .container {
   width: 1080px;
@@ -25,7 +25,7 @@ body {
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
-  color: #16d1ae;
+  color: #d11699;
 }
 
 .menu {
@@ -33,7 +33,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #5bb045;
+  background-color: #11b5ca;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -49,12 +49,12 @@ body {
   display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
-  color: #16d1ae;
+  color: #148306;
 }
 
 .menuitem a {
   text-decoration: none;
-  color: #9c1018;
+  color: #e40b16;
 }
 
 .content {
@@ -129,9 +129,39 @@ body {
   display: block;
   width: 100%;
   height: 40px;
-  background-color: #5bb045;
+  background-color: #99b045;
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
-  color: #9c1018;
+  color: #9c106d;
+}
+.people1 img{
+  width: 100px;
+  height: 100px;
+  display: block;
+}
+.people2 img{
+  width: 100px;
+  height: 100px;
+  display: block;
+}
+.people3 img{
+  width: 100px;
+  height: 100px;
+  display: block;
+}
+.people4 img{
+  width: 100px;
+  height: 100px;
+  display: block;
+}
+.people5 img{
+  width: 100px;
+  height: 100px;
+  display: block;
+}
+.people6 img{
+  width: 100px;
+  height: 100px;
+  display: block;
 }
